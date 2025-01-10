@@ -22,16 +22,16 @@ import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Grigory Konoplich",
   initials: "GK",
-  location: "Warsaw, Poland, CET",
+  location: "Warsaw, Poland, CET UTC+1",
   locationLink: "https://www.google.com/maps/place/Warsaw",
   about:
     "DevOps Engineer",
   summary:
-    "As a DevOps Engineer I focus on reliability of systems and streamlining of CI/CD processes",
+    "As a DevOps Engineer with 4+ years experience I focus on reliability of systems and smooth CI/CD processes to enhance deployment processes. Maintain, take care of reliability, security, observability of your infrastructure using Code. Continuously learning in a dynamic DevOps world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/44264912?v=4",
   personalWebsiteUrl: "https://dog0sd.net",
   contact: {
-    email: "grisha.konoplich0@gmail.com",
+    email: "ryhorkanoplich@gmail.com",
     tel: "+48790415714",
     social: [
       {
@@ -50,9 +50,10 @@ export const RESUME_DATA = {
     {
       school: "Belarussian University of Informatics and Radioelectronics",
       degree: "Bachelor's Degree in Computing Machines, Systems and Networks",
+      link: "https://www.bsuir.by/en/",
       start: "2018",
       end: "2022",
-    },
+    }
   ],
   work: [
     {
@@ -62,7 +63,7 @@ export const RESUME_DATA = {
       badges: [],
       start: "2024",
       end: "now",
-      description: "Maintaining MongoDB clusters"
+      description: "Enrich Automation and Observability of systems to increase predictability and reliability. Respond to production live incidents and collaborate with the team to resolve them. Enhave cloud infrastructure security compliance to get SOC and ISO certificates. Migrate and improve CI/CD pipelines to GitHub Actions"
     },
     {
       company: "Syberry",
@@ -71,7 +72,7 @@ export const RESUME_DATA = {
       badges: [],
       start: "2020",
       end: "2024",
-      description: "Setting up complex pipelines for many types of applications. Migration pipelines from Jenkins to GitLab CI. Improving CI processes on projects and the efciency of development teams. Deployment of dockerized applications to AWS ECS, Lambda, EC2 instances, Azure App Services, and Azure Functions.  Setting up full production infrastructure in AWS and Azure with Terraform. Designing observability infrastructure components: incidents tracking, metrics dashboards in AWS. Creating custom GitLab runners on Fargate executors to save costs in AWS. Maintaining Terraform and Terraspace projects up to date. Writing Terraform modules for AWS and Azure resources. Linux and Windows servers administration."
+      description: "Setting up complex pipelines for many types of applications. Migration pipelines from Jenkins to GitLab CI. Improving CI processes on projects and the efficiency of development teams. Deployment of dockerized applications to AWS ECS, Lambda, EC2 instances, Azure App Services, and Azure Functions.  Setting up full production infrastructure in AWS and Azure with Terraform. Designing observability infrastructure components: incidents tracking, metrics dashboards in AWS. Creating custom GitLab runners on Fargate executors to save costs in AWS. Maintaining Terraform and Terraspace projects up to date. Writing Terraform modules for AWS and Azure resources. Linux and Windows servers administration. And a lot of things I can't recall..."
     }
   ],
   skills: [
@@ -81,8 +82,19 @@ export const RESUME_DATA = {
     "Kubernetes",
     "Docker",
     "Linux",
+    "Ansible",
+    "Bash",
     "Python",
-    "Golang"
+    "Golang",
+    "Istio",
+    "GitLab CI",
+    "GitHub Actions",
+    "Jenkins",
+    "Prometheus",
+    "Grafana",
+    "Zabbix",
+    "ELK",
+    "Power BI"
   ],
   projects: [
     {
@@ -99,6 +111,21 @@ export const RESUME_DATA = {
       link: {
         label: "platform.peredelano.com",
         href: "https://platform.peredelano.com",
+      },
+    },
+    {
+      title: "Shakell",
+      techStack: [
+        "Side Project",
+        "Java",
+        "Docker",
+        "GitLab CI"
+      ],
+      description: "A platform for quick start for startups",
+      logo: ConsultlyLogo,
+      link: {
+        label: "shakell.ru",
+        href: "https://shakell.ru",
       },
     },
     {
