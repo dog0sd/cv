@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "DevOps Engineer",
   summary:
-    "As a DevOps Engineer with 4+ years experience I focus on reliability of systems and smooth CI/CD processes to enhance deployment processes. Maintain, take care of reliability, security, observability of your infrastructure using Code. Continuously learning in a dynamic DevOps world.",
+    "Configured CI/CD pipelines that deploy code to production faster than you can say \"Kubernetes\". Automating everything that moves, cutting release times in half without sacrificing quality. Monitoring and resilience so robust that incidents are fixed before they happen. Continuously learning in a dynamic DevOps world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/44264912?v=4",
   personalWebsiteUrl: "https://dog0sd.net",
   contact: {
@@ -72,7 +72,7 @@ export const RESUME_DATA = {
       badges: [],
       start: "2020",
       end: "2024",
-      description: "Setting up complex pipelines for many types of applications. Migration pipelines from Jenkins to GitLab CI. Improving CI processes on projects and the efficiency of development teams. Deployment of dockerized applications to AWS ECS, Lambda, EC2 instances, Azure App Services, and Azure Functions.  Setting up full production infrastructure in AWS and Azure with Terraform. Designing observability infrastructure components: incidents tracking, metrics dashboards in AWS. Creating custom GitLab runners on Fargate executors to save costs in AWS. Maintaining Terraform and Terraspace projects up to date. Writing Terraform modules for AWS and Azure resources. Linux and Windows servers administration. And a lot of things I can't recall..."
+      description: "Setting up complex pipelines for many types of applications. Migration pipelines from Jenkins to GitLab CI. Improving CI processes on projects and the efficiency of development teams. Deployment of dockerized applications to AWS ECS, Lambda, EC2 instances, Azure App Services, and Azure Functions. Made most efficient serverless runners for GitLab CI.  Setting up full production infrastructure in AWS and Azure with Terraform. Designing observability infrastructure components: incidents tracking, metrics dashboards in AWS. Maintaining Terraform and Terraspace projects up to date. Writing Terraform modules for AWS and Azure resources. Linux and Windows servers administration. And a lot of things I can't recall..."
     }
   ],
   skills: [
