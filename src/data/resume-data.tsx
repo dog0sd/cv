@@ -32,7 +32,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://dog0sd.net",
   contact: {
     email: "ryhorkanoplich@gmail.com",
-    tel: "+48790415714",
+    tel: "+48*********",
     social: [
       {
         name: "GitHub",
