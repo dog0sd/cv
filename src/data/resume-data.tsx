@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "DevOps Engineer",
   summary:
-    "Configured CI/CD pipelines that deploy code to production faster than you can say \"Kubernetes\". Automating everything that moves, cutting release times in half without sacrificing quality. Monitoring and resilience so robust that incidents are fixed before they happen. Continuously learning in a dynamic DevOps world.",
+    "I'm a DevOps Engineer with a passion for automation and observability. ",
   avatarUrl: "https://avatars.githubusercontent.com/u/44264912?v=4",
   personalWebsiteUrl: "https://dog0sd.net",
   contact: {
@@ -63,7 +63,11 @@ export const RESUME_DATA = {
       badges: [],
       start: "2024",
       end: "now",
-      description: "Enrich Automation and Observability of systems to increase predictability and reliability. Respond to production live incidents and collaborate with the team to resolve them. Enhave cloud infrastructure security compliance to get SOC and ISO certificates. Migrate and improve CI/CD pipelines to GitHub Actions"
+      description: "Adopting IaC best practices using Terraform resulting in faster and more reliable deployments. " +
+      " Optimizing monitoring and alerting systems in Prometheus and Grafana." + 
+      " Responding to production live incidents and collaborating with the team to resolve them." + 
+      " Enforcing cloud infrastructure security compliance and DevSecOps best practices." + 
+      " Migrating from Jenkins to GitHub Actions, from ELK to ALPG."
     },
     {
       company: "Syberry",
@@ -92,7 +96,7 @@ export const RESUME_DATA = {
     "Jenkins",
     "Prometheus",
     "Grafana",
-    "Zabbix",
+    "Grafana Stack",
     "ELK",
     "Power BI"
   ],
