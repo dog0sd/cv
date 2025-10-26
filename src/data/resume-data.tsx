@@ -8,8 +8,8 @@ export const RESUME_DATA: ResumeData = {
   about: "DevOps Engineer with a passion for automation and observability.",
   summary: (
     <>
-      DevOps Engineer with a passion for automation and observability.
-      Experienced in 
+      DevOps Engineer with 5 years of experience building and maintaining cloud infrastructure on AWS and Azure. 
+      God of Terraform, expirienced in different areas of DevOps/SRE, love learning new things.
     </>
   ),
   avatarUrl: "https://avatars.githubusercontent.com/u/44264912?v=4",
